@@ -20,7 +20,7 @@ These are the proposes which we will implementing-
 
 5. Disaster Management: Natural disasters like floods and earthquakes can be very dangerous for city dwellers. Smart disaster management can help keep everyone safe by sending instant notifications in the event of a disaster. For Safety using these methods, communities can be better prepared and prepared to deal with difficult situations. It helps everyone know what to do during a disaster and keep people safe.
 
-6.Community Engagement Platform: The community participation center allows residents to report issues such as broken lights, water issues or road maintenance needs and cleaning issues. The solution promotes direct communication between citizens and local governments, increasing transparency and efficiency.
+6. 6.Community Engagement Platform: The community participation center allows residents to report issues such as broken lights, water issues or road maintenance needs and cleaning issues. The solution promotes direct communication between citizens and local governments, increasing transparency and efficiency.
 
 7. Smart SOS System: Smart SOS systems allow citizens to quickly notify the police, fire department. This system can provide real-time location tracking and emergency alerts to ensure help arrives quickly and efficiently.
 
