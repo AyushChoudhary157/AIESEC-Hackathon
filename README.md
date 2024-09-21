@@ -1,4 +1,5 @@
 # AIESEC-Hackathon
+
 Smart City
 
 In the rapidly growing urban transformation, the concept of smart cities has become the beacon of innovation. Smart cities use technology to improve the quality of life of residents, enhance sustainability and improve city services.
